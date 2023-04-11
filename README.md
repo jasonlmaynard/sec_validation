@@ -27,6 +27,8 @@ The script performs the following:
 Use at YOUR OWN RISK!
 #####################
 
+Video Example: https://youtu.be/4E5haA-6KUQ 
+
 
 Screen shots from Firepower 
 
