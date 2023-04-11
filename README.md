@@ -17,7 +17,7 @@ The script performs the following:
 - Pulls Malware EIRCAR and ZOMBIES.PDF (note: ZOMBIES.PDF is marked as bad in Cisco secruity tools for testing) 
 - Pings an upstream device to ensure the firewall is passing ICMP
 - Performs 4 NMAP scans (XMAS, FIN, NULL and UDP) on an upstream device 
-- Performs 1 URL check for Adult Sites - playboy.com 
+- Performs 1 URL check for Adult Sites - pornhub.com 
 - Connects to multiple bad sites by pulling intelligence feeds, parsing the data, removes duplicates
 - Pulls bad IPs from Talos 
 - Pulls URLS from VXVault 
