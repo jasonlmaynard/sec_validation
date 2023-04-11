@@ -70,7 +70,7 @@ print (colored('Connect to Adult URL Category', 'red'))
 print (colored('################################################################', 'green'))
 
 try:
-    urllib.request.urlretrieve ('http://www.playboy.com')
+    urllib.request.urlretrieve ('http://www.pornhub.com')
 except urllib.request.URLError as e:
     print ('DNS Lookup Failed!')
 except NameError as e:
@@ -82,7 +82,7 @@ except TimeoutError as e:
 
 #Finished Print Details 
 print ('Connected to an Adult Site - Check URL Cateogries!!!')
-print ('Check for look for playboy.com to validate this test')
+print ('Check for look for pornhub.com to validate this test')
 print ('################################################################')
 
 #######################################################################################################################
