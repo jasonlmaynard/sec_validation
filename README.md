@@ -1,13 +1,10 @@
+This script is meant to test Firepower NGFW (but it can test any security device) using real world threats. The goal is to populate Firepower with events and tune signatures as required - this can be used as a learning tool. NOTE: these are real threats that may compromise your system or systems. 
+
 # sec_validation
 
 #####################
 Use at YOUR OWN RISK!
 #####################
-
-This script is meant to test Firepower NGFW (but it can test any security device) using real world threats. 
-The goal is to populate Firepower with events and tune signatures as required - this can be used as a learning tool. 
-
-NOTE: these are real threats that may compromise your system or systems. 
 
 Restrict the assets used to test and ideally snapshot it. Then revert snap or delete the instance.
 
